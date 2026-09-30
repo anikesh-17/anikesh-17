@@ -2,11 +2,7 @@
 
 <h3 align="center">B.Tech CSE Student | Machine Learning | MERN Stack | Salesforce | Competitive Programming</h3>
 
-<p align="center">
-  <a href="https://github.com/anikesh-17">
-    <img src="https://komarev.com/ghpvc/?username=anikesh-17&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-</p>
+
 
 ---
 
