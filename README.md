@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Anikesh Sharma — animated hero"/>
+<img src="./hero.svg" width="100%" alt="Anikesh Sharma — animated hero"/>
 
 <br/>
 
@@ -19,7 +19,7 @@
 > *"Engineer in progress — building, learning & evolving every day."*
 
 <div align="center">
-<img src="./assets/player-card.svg" width="100%" alt="Player card: attributes and streaks"/>
+<img src="./player-card.svg" width="100%" alt="Player card: attributes and streaks"/>
 </div>
 
 ---
@@ -27,7 +27,7 @@
 ## 💎 Loot Inventory
 
 <div align="center">
-<img src="./assets/loot.svg" width="100%" alt="9 certifications from 8 vendors"/>
+<img src="./loot.svg" width="100%" alt="9 certifications from 8 vendors"/>
 </div>
 
 <details>
@@ -48,7 +48,7 @@
 ## ⚔️ Quest Log
 
 <div align="center">
-<img src="./assets/quest-log.svg" width="100%" alt="Projects as a quest log"/>
+<img src="./quest-log.svg" width="100%" alt="Projects as a quest log"/>
 </div>
 
 | Quest | Code |
