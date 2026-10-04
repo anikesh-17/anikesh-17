@@ -1,205 +1,121 @@
-<h1 align="center">Hi 👋, I'm Anikesh Sharma</h1>
+<div align="center">
 
-<h3 align="center">B.Tech CSE Student | Machine Learning | MERN Stack | Salesforce | Competitive Programming</h3>
+<img src="./assets/hero.svg" width="100%" alt="Anikesh Sharma — animated hero"/>
 
+<br/>
 
+<a href="https://anikesh-17.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-anikesh--17.github.io-7C83FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/anikesh17/"><img src="https://img.shields.io/badge/LinkedIn-anikesh17-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:anikeshsharma17@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=anikesh-17&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views"/>
 
----
-
-## 👨‍💻 About Me
-
-I'm a Computer Science Engineering student passionate about **building intelligent systems, full-stack applications, and solving real-world problems through technology**.
-
-* 🎓 B.Tech in Computer Science & Engineering
-* 💡 Interested in **Machine Learning, Full-Stack Development & Salesforce**
-* 🧠 Strong interest in **Data Structures & Algorithms**
-* ☁️ Salesforce Certified Platform Developer I
-* 🔥 Consistent Competitive Programming practitioner
-* 🚀 Currently building projects that combine **AI, Web Development and Cloud technologies**
-* 🎯 Preparing for software engineering and technical placements
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🎮 Player Card
 
-### 👨‍💻 Programming Languages
+> *"Engineer in progress — building, learning & evolving every day."*
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### 🌐 Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge\&logo=express\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-
-### 🤖 Machine Learning & Data Science
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
-
-### ☁️ Salesforce
-
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge\&logo=salesforce\&logoColor=white)
-![Apex](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge\&logo=salesforce\&logoColor=white)
-
-**Salesforce:** Apex • SOQL • LWC • Flows • Queueable Apex • Batch Apex • Scheduled Apex • Approval Processes • Einstein Bot
-
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### 🔧 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)
+<div align="center">
+<img src="./assets/player-card.svg" width="100%" alt="Player card: attributes and streaks"/>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 💎 Loot Inventory
 
-### 🏥 JEEVA — AI Healthcare Platform
+<div align="center">
+<img src="./assets/loot.svg" width="100%" alt="9 certifications from 8 vendors"/>
+</div>
 
-An AI-powered healthcare application focused on disease prediction and intelligent healthcare assistance.
+<details>
+<summary><b>Verify my certifications</b></summary>
 
-**Tech:** Python • Machine Learning • Scikit-learn • React • Node.js • MongoDB
+- [Salesforce Platform Developer I](https://www.salesforce.com/trailblazer/anikesh17/)
+- [Microsoft Azure Fundamentals](https://www.credly.com/badges/9267d413-d7a3-4ef8-ba49-b5abebb633dd/public_url)
+- [ServiceNow CIS – Data Foundations (CMDB & CSDM)](https://www.credly.com/badges/01df0f49-bd39-4b80-9209-a8b3a996ac63/public_url)
+- [SAP Certified – Back-End Developer, ABAP Cloud](https://www.credly.com/badges/83736e6d-c667-4a3b-a654-156282b79c91/public_url)
+- [Google Cloud Computing Foundations](https://www.credly.com/badges/0a303ee5-67fe-42dd-b1e3-4dd4499b55e6/public_url)
+- Oracle OCI Generative AI Professional · OCI Data Science Professional
+- IBM AI Fundamentals · Cisco C++ Essentials
 
-🔗 **Repository:**
-https://github.com/anikesh-17/JEEVA
-
----
-
-### 🏠 TripCasa — Full-Stack Property Rental Platform
-
-A full-stack property rental web application with authentication, listings, image uploads and database management.
-
-**Tech:** Node.js • Express.js • MongoDB • Mongoose • EJS • Bootstrap • Cloudinary • Multer
-
-🔗 **Repository:**
-https://github.com/anikesh-17/Trip-casa-project
-
-🌐 **Live:**
-https://tripcasa.onrender.com/listings
+</details>
 
 ---
 
-### 📅 CalenForce — Salesforce Event Management System
+## ⚔️ Quest Log
 
-A Salesforce-based event management system featuring calendar scheduling, event CRUD operations, conflict detection and automated notifications.
+<div align="center">
+<img src="./assets/quest-log.svg" width="100%" alt="Projects as a quest log"/>
+</div>
 
-**Tech:** Salesforce • LWC • Apex • SOQL • FullCalendar.js • Queueable Apex • Batch Apex • Scheduled Apex
-
-**Key Features:**
-
-* 📅 Event scheduling and calendar management
-* 🔄 Drag-and-drop event rescheduling
-* ⚠️ Event conflict detection
-* 🔔 Automated notifications and reminders
-* ⚡ Queueable, Batch and Scheduled Apex
-* 🧩 Lightning Web Components
-
----
-
-### 🏥 MediForce — Smart Healthcare Management System
-
-A Salesforce healthcare management solution designed to manage patients, appointments and medical information.
-
-**Tech:** Salesforce • LWC • Apex • Flows • Einstein Bot • SOQL
-
-**Features:**
-
-* Patient registration
-* Appointment management
-* Medical history management
-* Automated email notifications
-* Einstein Bot integration
+| Quest | Code |
+|---|---|
+| 🏥 JEEVA — Digital Health Record Management (AI + Blockchain) | [anikesh-17/JEEVA](https://github.com/anikesh-17/JEEVA) |
+| 🏠 TripCasa — Rental platform (**[live](https://tripcasa.onrender.com/listings)**) | [Trip-casa-project](https://github.com/anikesh-17/Trip-casa-project) |
+| 🤖 Multipurpose AI Platform — 5 ML models | [anikesh-ML-Project](https://github.com/anikesh-17/anikesh-ML-Project) |
+| 🧭 Career Path API — FastAPI + Gemini | [career-recommendation](https://github.com/anikesh-17/career-recommendation) |
+| 💬 Sentiment Analysis | [Sentiment-Analysis](https://github.com/anikesh-17/Sentiment-Analysis) |
+| 🏡 House Price Prediction | [House-Price-Prediction](https://github.com/anikesh-17/House-Price-Prediction) |
+| 🎬 Movie Recommendation System | [Movie-Recommendation](https://github.com/anikesh-17/Movie-Recommendation) |
 
 ---
 
-## 🧠 Competitive Programming
+## 🧰 Tech Arsenal
 
-I enjoy solving Data Structures & Algorithms problems and maintaining consistency across competitive programming platforms.
+<div align="center">
 
-🏆 **600+ Days — CodeChef**
-🔥 **300+ Days — GeeksforGeeks**
-💻 **295+ Days — LeetCode**
+<img src="https://skillicons.dev/icons?i=cpp,py,java,js,html,css,react,nodejs,express,flask,fastapi,bootstrap,tailwind&perline=13" alt="languages and web"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,numpy,pandas,matplotlib,mongodb,mysql,git,github,vscode,notion&perline=11" alt="ml, db, tools"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/>
+<img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex"/>
+<img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="LWC"/>
+<img src="https://img.shields.io/badge/Einstein_Bot-032D60?style=for-the-badge&logo=salesforce&logoColor=white" alt="Einstein"/>
+<br/>
 
-### Achievements
+`SOQL` • `Flows` • `Apex Triggers` • `Queueable / Batch / Scheduled Apex` • `Salesforce CLI` • `FullCalendar.js`
 
-* ⭐ **4-Star C++** — HackerRank
-* 🥇 **Problem Solver Gold Badge** — CodeChef
-* 🏅 Completed **GFG 160-Day Problem Solving Challenge**
-* 📚 Regular practice of DSA and competitive programming
+</div>
 
 ---
 
-## 📜 Certifications
+## 🧠 Coding Arenas
 
-* 🏆 **Salesforce Certified Platform Developer I**
-* ☁️ **Microsoft Azure Fundamentals — AZ-900**
-* 🤖 **Career Essentials in Generative AI — Microsoft**
-* 🤖 **AI for India 2.0**
+<div align="center">
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-Diamond_Badge-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/anikesh17)
+[![LeetCode](https://img.shields.io/badge/LeetCode-anikesh17-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anikesh17/)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-Institute_Rank_<25-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/anikesh17/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-5_Stars-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/anikeshsharma17)
+[![Unstop](https://img.shields.io/badge/Unstop-Top_1000-1C4980?style=for-the-badge)](https://unstop.com/u/anikesh17)
+[![Code360](https://img.shields.io/badge/Coding_Ninjas-Champion-F96D00?style=for-the-badge)](https://www.naukri.com/code360/profile/anikesh17)
+[![Codolio](https://img.shields.io/badge/Codolio-Profile-7C83FF?style=for-the-badge)](https://codolio.com/profile/anikesh17)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anikesh-17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anikesh-17&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikesh-17&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anikesh-17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikesh-17&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
 
----
+<br/>
 
-## 🌐 Connect With Me
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anikesh-17&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph"/>
 
-<p align="center">
-
-<a href="https://linkedin.com/in/anikesh17">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/anikesh-17">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/anikesh.17/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://x.com/17_Anikesh">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="mailto:anikeshsharma17@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-<h3 align="center">💡 "Code. Learn. Build. Repeat." 🚀</h3>
+<div align="center">
 
-<p align="center">
-  Thanks for visiting my profile! ⭐
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=00E5FF&center=true&vCenter=true&width=520&lines=Code.+Learn.+Build.+Repeat.+%F0%9F%9A%80;Open+to+SDE+%2F+Salesforce+opportunities;Thanks+for+visiting+my+profile!+%E2%AD%90" alt="footer"/>
+
+</div>
