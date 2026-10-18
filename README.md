@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/anikesh17/"><img src="https://img.shields.io/badge/LinkedIn-anikesh17-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:anikeshsharma17@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=anikesh-17&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views"/>
+<img src="https://hits.sh/github.com/anikesh-17.svg?style=flat-square&label=Profile%20Views&color=7C83FF&labelColor=0a0e22" alt="profile views"/>
 
 </div>
 
@@ -108,7 +108,7 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anikesh-17&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph"/>
+<img src="https://ghchart.rshah.org/7C83FF/anikesh-17" width="100%" alt="contribution chart"/>
 
 </div>
 
