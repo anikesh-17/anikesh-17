@@ -36,7 +36,6 @@
 - [Salesforce Platform Developer I](https://www.salesforce.com/trailblazer/anikesh17/)
 - [Microsoft Azure Fundamentals](https://www.credly.com/badges/9267d413-d7a3-4ef8-ba49-b5abebb633dd/public_url)
 - [ServiceNow CIS – Data Foundations (CMDB & CSDM)](https://www.credly.com/badges/01df0f49-bd39-4b80-9209-a8b3a996ac63/public_url)
-- [SAP Certified – Back-End Developer, ABAP Cloud](https://www.credly.com/badges/83736e6d-c667-4a3b-a654-156282b79c91/public_url)
 - [Google Cloud Computing Foundations](https://www.credly.com/badges/0a303ee5-67fe-42dd-b1e3-4dd4499b55e6/public_url)
 - Oracle OCI Generative AI Professional · OCI Data Science Professional
 - IBM AI Fundamentals · Cisco C++ Essentials
